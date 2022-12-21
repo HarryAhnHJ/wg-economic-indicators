@@ -1,8 +1,0 @@
-{
-    "workbench.colorCustomizations": {
-    
-    }
-    "python.analysis.typeCheckingMode":"basic",
-    "python.defaultInterpreterPath": "D:\Coding Projects\wg-economic-indicators\.env\Scripts\python.exe",
-    "python.terminal.activateEnvironment": true,
-}
